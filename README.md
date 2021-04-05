@@ -1,8 +1,4 @@
-# Book-marketing-data-science-with-marketing-research
-《最強行銷武器—整合行銷研究與資料科學》書籍程式碼
 
-
-![封面](img/stp.jpg)
 # 《最強行銷武器—整合行銷研究與資料科學》
 這是《最強行銷武器—整合行銷研究與資料科學》的章節程式碼，並且以Jupyter notebook的方式呈現，讓讀者在執行程式碼前能先更好理解每一步程式碼的意涵。
 
